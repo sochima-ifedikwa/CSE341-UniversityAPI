@@ -5,8 +5,8 @@ const doc = {
     title: 'University API',
     description: 'API for managing university data'
   },
-  host: 'localhost:5500',
-  schemes: ['http'],
+  host: 'cse341-universityapi.onrender.com',
+  schemes: ['https'],
 };
 
 const outputFile = './swagger.json'; // Output file for the generated Swagger documentation will be generated in the root directory
