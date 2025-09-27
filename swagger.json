@@ -5,10 +5,10 @@
     "description": "API for managing university data",
     "version": "1.0.0"
   },
-  "host": "localhost:5500",
+  "host": "cse341-universityapi.onrender.com",
   "basePath": "/",
   "schemes": [
-    "http"
+    "https"
   ],
   "paths": {
     "/": {
