@@ -1,2 +1,4 @@
 // GET A:LL STUDENTS
-GET htt
+GET  http://localhost:5500/students/
+loc
+

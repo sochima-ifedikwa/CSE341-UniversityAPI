@@ -23,4 +23,4 @@ router.get('/logout', function(req, res, next) {
 })
 router.use('/', require('./swagger'));
 
-module.exports = router;
+module.exports = router; 
